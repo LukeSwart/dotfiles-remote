@@ -1,0 +1,14 @@
+[user]
+        name = Luke Swart
+        email = lukeswart@gmail.com
+[core]
+        editor = vim
+[merge]
+        tool = kdiff3
+[alias]
+  st = status
+  cm = commit
+  outgoing = log --pretty=oneline --abbrev-commit --graph @{u}..
+  incoming = !git fetch && git log --pretty=oneline --abbrev-commit --graph ..@{u}
+[push]
+        default = simple
