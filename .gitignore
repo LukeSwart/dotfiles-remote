@@ -5,5 +5,6 @@
 !.gitignore
 !.gitmodules
 !.tmux.conf
+!linkFiles.sh
 # !.vimrc
 # !.emacs.d
