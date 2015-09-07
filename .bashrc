@@ -123,7 +123,7 @@ case "$TERM" in
 "dumb")
       PS1="> "
           ;;
-xterm*|rxvt*|eterm*|screen*)
+xterm*|rxvt*|eterm*|screen*|linux*)
     PS1='\[\e[1;32m\][\u@\h]$(eval "echo ${MYPS}")$\[\e[0m\] '
     ;;
 *)
