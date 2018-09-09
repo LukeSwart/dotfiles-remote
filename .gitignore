@@ -7,5 +7,6 @@
 !.gitmodules
 !.tmux.conf
 !linkFiles.sh
+!bootstrap-docker.sh
 # !.vimrc
 # !.emacs.d
