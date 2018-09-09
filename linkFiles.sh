@@ -1,5 +1,5 @@
 #!/bin/bash
-
+mv ~/.bashrc ~/.bashrc.old
 ln -s ~/dotfiles-remote/.bashrc ~/.bashrc
 ln -s ~/dotfiles-remote/.gitignore ~/.gitignore
 ln -s ~/dotfiles-remote/.gitconfig ~/.gitconfig
