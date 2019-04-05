@@ -9,5 +9,6 @@
 !linkFiles.sh
 !connect.sh
 !ssh-find-agent.sh
+!bootstrap-docker.sh
 # !.vimrc
 # !.emacs.d
