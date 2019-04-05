@@ -7,5 +7,7 @@
 !.gitmodules
 !.tmux.conf
 !linkFiles.sh
+!connect.sh
+!ssh-find-agent.sh
 # !.vimrc
 # !.emacs.d
