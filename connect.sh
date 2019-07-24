@@ -1,4 +1,5 @@
 eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/mapseed-api
+# only the first key in this list works!
 ssh-add ~/.ssh/mapseed-docker-scripts
+ssh-add ~/.ssh/mapseed-api
 
